@@ -1,0 +1,16 @@
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.deps.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.runtimeconfig.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.runtimeconfig.dev.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\ref\Ejercicio_15.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.AssemblyInfoInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.AssemblyInfo.cs
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\ref\Ejercicio_15.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.genruntimeconfig.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.csproj.AssemblyReference.cache

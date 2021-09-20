@@ -1,0 +1,15 @@
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\Ejercicio_14.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\Ejercicio_14.deps.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\Ejercicio_14.runtimeconfig.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\Ejercicio_14.runtimeconfig.dev.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\Ejercicio_14.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\ref\Ejercicio_14.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\bin\Debug\net5.0\Ejercicio_14.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.AssemblyInfoInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.AssemblyInfo.cs
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\ref\Ejercicio_14.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\MetodosEstaticos\Ejercicio_14\obj\Debug\net5.0\Ejercicio_14.genruntimeconfig.cache

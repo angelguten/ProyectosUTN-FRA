@@ -1,0 +1,16 @@
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.deps.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.runtimeconfig.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.runtimeconfig.dev.json
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\ref\Ejercicio_18.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\bin\Debug\net5.0\Ejercicio_18.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.csproj.AssemblyReference.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.AssemblyInfoInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.AssemblyInfo.cs
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\ref\Ejercicio_18.dll
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\LAB II 2021\GuiaDeEjercicios\Objetos\Ejercicio_18\obj\Debug\net5.0\Ejercicio_18.genruntimeconfig.cache
